@@ -1,0 +1,4 @@
+pygame
+numpy
+Flask
+Flask-WTF
