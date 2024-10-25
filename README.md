@@ -37,7 +37,7 @@
 
 ## 开源代码
 
-本项目的源代码托管在 [GitHub](https://github.com)，欢迎大家提出建议和贡献代码。
+本项目的源代码托管在 [GitHub](https://github.com/xsq2023/python-project)，欢迎大家提出建议和贡献代码。
 
 ## 安装方式
 
